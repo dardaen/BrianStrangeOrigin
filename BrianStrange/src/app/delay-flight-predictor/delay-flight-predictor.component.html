@@ -1,0 +1,37 @@
+<h3>I would like to make a guess if your flight will be delayed</h3>
+<div class="ui-g ui-fluid">
+    <div class="ui-g-12 ui-md-4">
+        <label>Day of Week:</label>
+        <br/>
+        <br/>
+        <p-dropdown [options]="dayOfWeek" [(ngModel)]="selectedDay"></p-dropdown>
+        <br/>
+        <br/>
+        <label>Carrier:</label>
+        <br/>
+        <br/>
+        <input type="text" [(ngModel)]="carrier" pInputText placeholder="Carrier">
+        <br/>
+        <br/>
+        <br/>
+        <label>Destination:</label>
+        <p-dropdown [options]="airports" [(ngModel)]="selectedDestination"></p-dropdown>
+        <label>Origin:</label>
+        <p-dropdown [options]="airports" [(ngModel)]="selectedOrigin"></p-dropdown>
+        <br/>
+        <br/>
+        <label> Departure Time Range:</label>
+        <br/>
+        <br/>
+        <input type="text" [(ngModel)]="departureTimeRange" pInputText placeholder="HHMM-HHMM">
+        <br/>
+        <br/>
+        <button (click)="handleClick()">Get Result!</button>
+        <p>{{result}}</p>
+        <br/>
+        <br/>
+        <a routerLink="/home"><button pButton type="button" > Go Back</button></a>
+
+
+    </div>
+</div>

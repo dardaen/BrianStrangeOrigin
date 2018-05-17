@@ -1,0 +1,89 @@
+p-panel >>> .ui-panel {
+    margin-top: 1em;
+    width: 98%;
+    min-height: 300px;
+  }
+  
+p-card {
+    background-color: rgb(0, 0, 0);
+
+}
+
+.pcard-style {
+    background-color: rgb(255, 0, 0);
+
+}
+
+a:link{
+    color: rgb(6, 23, 92);
+}
+
+a {
+
+    font-size: 8pt;
+}
+
+.ui-inputgroup input
+{
+  width: 300px;
+}
+
+.forgot-password {
+  align-items: right;
+  justify-content: right;
+  float: right;
+}
+
+  .ui-g {
+    padding: 6px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+
+
+  #statistic {
+  
+    width: 300px;
+    color: white;
+    text-align: center;
+    font-family: "Roboto";
+    background-color: #00ACAC;
+  }
+  
+  .icon {
+    font-size: 80px;
+    margin: 0px;
+    padding: 5px;
+    background:rgba(0,0,0,.1);
+  }
+  
+  .data {
+    padding: 1em;
+    vertical-align: middle;
+  }
+  
+  .value {
+    font-size: 40px;
+  }
+  
+  .label {
+    text-transform: uppercase;
+  }
+
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.header img {
+    float: left;
+    width: 30px;
+    height: 30px;
+
+}

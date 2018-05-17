@@ -1,0 +1,11 @@
+D:\Initiatives\BrianStrange\BrianStrange\bin\Debug\netcoreapp2.0\BrianStrange.deps.json
+D:\Initiatives\BrianStrange\BrianStrange\bin\Debug\netcoreapp2.0\BrianStrange.runtimeconfig.json
+D:\Initiatives\BrianStrange\BrianStrange\bin\Debug\netcoreapp2.0\BrianStrange.runtimeconfig.dev.json
+D:\Initiatives\BrianStrange\BrianStrange\bin\Debug\netcoreapp2.0\BrianStrange.dll
+D:\Initiatives\BrianStrange\BrianStrange\bin\Debug\netcoreapp2.0\BrianStrange.pdb
+D:\Initiatives\BrianStrange\BrianStrange\obj\Debug\netcoreapp2.0\BrianStrange.csprojResolveAssemblyReference.cache
+D:\Initiatives\BrianStrange\BrianStrange\obj\Debug\netcoreapp2.0\BrianStrange.csproj.CoreCompileInputs.cache
+D:\Initiatives\BrianStrange\BrianStrange\obj\Debug\netcoreapp2.0\BrianStrange.AssemblyInfoInputs.cache
+D:\Initiatives\BrianStrange\BrianStrange\obj\Debug\netcoreapp2.0\BrianStrange.AssemblyInfo.cs
+D:\Initiatives\BrianStrange\BrianStrange\obj\Debug\netcoreapp2.0\BrianStrange.dll
+D:\Initiatives\BrianStrange\BrianStrange\obj\Debug\netcoreapp2.0\BrianStrange.pdb
